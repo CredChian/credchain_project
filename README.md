@@ -96,9 +96,8 @@ We welcome developers, blockchain enthusiasts, educational institutions, and org
 
 For collaboration opportunities, inquiries, or investor information:
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [credchain](www.linkedin.com/in/credchain)
-- **Website:** [CredChain Official Site](https://credchain.example.com)
+- On top of the Credchain, now we are rebranding and building the **Unified Identity Verification Technology - [SeCreDocs](secredocs.com)
+- Please visit [us](https://github.com/careercater) and see how we are disrupting the traditional identity verification around the world!!
 
 ---
 
