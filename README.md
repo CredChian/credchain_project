@@ -41,7 +41,7 @@ CredChain solves these critical challenges with Instant Verification, Fraud Prev
 
 ## 🌐 Key Features
 
-- **Blockchain-Immutable Records:** Credentials securely stored on Algorand blockchain, ensuring data authenticity and preventing fraud.
+- **Blockchain-Immutable Records:** Credentials securely stored on the Algorand blockchain, ensuring data authenticity and preventing fraud.
 - **Aadhaar Identity Integration:** Robust identity verification through India's Aadhaar system ensures authentic user onboarding.
 - **Seamless DigiLocker Integration:** Automatic retrieval and verification of digital certificates directly from government-issued DigiLocker accounts.
 - **Zero-Knowledge Proof (ZKP):** Allows selective disclosure of verified credentials without compromising personal privacy.
